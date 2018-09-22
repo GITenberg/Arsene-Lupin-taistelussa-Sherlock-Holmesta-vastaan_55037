@@ -1,0 +1,30 @@
+_repo: Arsene-Lupin-taistelussa-Sherlock-Holmesta-vastaan_55037
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Finne, Jalmari
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '43291'
+    url: http://www.gutenberg.org/2009/agents/43291
+creator:
+  author:
+    agent_name: Leblanc, Maurice
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '1358'
+    url: http://www.gutenberg.org/2009/agents/1358
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
+description: ''
+gutenberg_issued: '2017-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55037'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Arsène Lupin taistelussa Sherlock Holmesta vastaan
+url: http://www.gutenberg.org/ebooks/55037
