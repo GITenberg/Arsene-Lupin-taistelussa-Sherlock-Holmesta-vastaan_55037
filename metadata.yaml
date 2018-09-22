@@ -7,6 +7,9 @@ contributor:
     deathdate: 1938
     gutenberg_agent_id: '43291'
     url: http://www.gutenberg.org/2009/agents/43291
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leblanc, Maurice
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1358
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55037#Arsene-Lupin-taistelussa-Sherlock-Holmesta-vastaan
 gutenberg_issued: '2017-07-03'
 gutenberg_type: Text
 identifiers:
